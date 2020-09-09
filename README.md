@@ -6,7 +6,7 @@ Exploring various libraries (pandas, numpy, matplotlib) to wrangle data in Pytho
 ### Good github repositories
 
 ### Youtube tutorials
-- [https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y](Kevin Markham Data analysis in Python with pandas)
+- (Kevin Markham Data analysis in Python with pandas)[https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y]
 
 ### Blog post
 
