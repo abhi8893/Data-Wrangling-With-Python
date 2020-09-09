@@ -1,5 +1,5 @@
 # Data-Wrangling-With-Python
-Exploring various libraries (pandas, numpy, matplotlib) to wrangle data in Python. This is a practice repository Me ([Abhishek Bhatia - abhi8893])[https://github.com/anu-coder/]) and my friend  (Anurima Dey - anu-coder)[https://github.com/anu-coder/] collaborated to sharpen our data wrangling skills in Python :)
+Exploring various libraries (pandas, numpy, matplotlib) to wrangle data in Python. This is a practice repository Me ([Abhishek Bhatia - abhi8893](https://github.com/anu-coder/)) and my friend  [Anurima Dey - anu-coder](https://github.com/anu-coder/) collaborated to sharpen our data wrangling skills in Python :)
 
 ## Resources
 
